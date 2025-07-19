@@ -1,4 +1,4 @@
-# ECE 124 - Lab 3: Advanced HVAC Control System with Traffic Light Integration
+# Advanced HVAC Control System with Traffic Light Integration
 
 ## 🚀 Project Overview
 
